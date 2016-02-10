@@ -4,3 +4,6 @@ def foo(bar):
     if not bar:
         return True
     print 'Function works!'
+
+b=''
+foo(b)
