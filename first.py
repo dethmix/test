@@ -8,3 +8,6 @@ def foo(bar):
 """
 Here we start
 """
+"""
+added from cmd
+"""
